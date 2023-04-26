@@ -5,5 +5,6 @@ public class helloworld
 		system.out.println("welcome to spt");
 		system.out.println("welcome to se lab");
                 system.out.println("hello world");
+		system.out.println("java world");
 	}
 }
